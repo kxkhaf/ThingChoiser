@@ -30,4 +30,4 @@ AI-powered Telegram bot that helps you create perfect outfits using your wardrob
 - Classifies 10 clothing categories:
   ```python
   ['T-shirt/top', 'Trouser', 'Pullover', 'Dress', 'Coat',
-   'Sandal', 'Shirt', 'Sneaker', 'Bag', 'Ankle boot']```
+   'Sandal', 'Shirt', 'Sneaker', 'Bag', 'Ankle boot']
